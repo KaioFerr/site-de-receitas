@@ -13,7 +13,7 @@ A atividade solicitou o desenvolvimento de seu website de Receitas. O site dever
    
 ## Ferramentas Utilizadas
 
-O projeto está sendo desenvolvido utilizando HTML e CSS (*não podendo usar Flexbox*).
+O projeto está sendo desenvolvido utilizando HTML e CSS (**não podendo usar Flexbox**).
 
 ## Estrutura de Arquivos
 
